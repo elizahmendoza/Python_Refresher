@@ -1,0 +1,6 @@
+#Get an item of the tuple
+tuplex = ("h", "e", "l", "l", "o")
+print(tuplex)
+#Get item (4th element from last)by index negative
+item1 = tuplex[-4]
+print(item1)
