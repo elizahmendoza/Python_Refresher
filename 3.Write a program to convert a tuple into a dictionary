@@ -1,0 +1,4 @@
+tuplex = ((5, "a"),(9, "b"))
+print(dict((y, x) for x, y in tuplex))
+
+
