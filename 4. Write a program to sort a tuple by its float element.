@@ -1,0 +1,2 @@
+price =[('itm1', '2.20'), ('itm2','1.10'), ('itm3','4.5')]
+print( sorted(price, key=lambda x: float(x[1]), reverse=True))
