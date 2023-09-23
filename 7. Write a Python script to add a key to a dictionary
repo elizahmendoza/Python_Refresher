@@ -1,0 +1,6 @@
+d = {4:17, 2:92}
+print(d)
+d.update({0:75})
+print(d)
+
+
